@@ -4,7 +4,6 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About Me👨🏻‍💻</h2></summary>
     <h3 align="center">Experienced Freelance Developer and Computer Engineering Student at the University José Antonio Páez. Driven by a passion for learning and growth, I'm committed to staying at the forefront of technology and using my skills to help others.</h3>
   </ul>
 </div>
