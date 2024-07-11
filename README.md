@@ -28,7 +28,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-    [![TikTok](https://img.shields.io/badge/TikTok-@angelintech-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mangelintech)
+    ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
   </ul>
 </div>
 
