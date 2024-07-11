@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me👨🏻‍💻</h2></summary>
-    <h4 align="center">Experienced Freelance Developer and Computer Engineering Student at the University José Antonio Páez. Driven by a passion for learning and growth, I'm committed to staying at the forefront of technology and using my skills to help others.</h4>
+    <h3 align="center">Experienced Freelance Developer and Computer Engineering Student at the University José Antonio Páez. Driven by a passion for learning and growth, I'm committed to staying at the forefront of technology and using my skills to help others.</h3>
   </ul>
 </div>
 
@@ -23,8 +23,6 @@
   </a>
 </p>
 
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -33,5 +31,12 @@
   </ul>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelddeleon"/>
 
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
+
+<p align="center">
+<a href="https://github.com/ElAdagioDeJP">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElAdagioDeJP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElAdagioDeJP&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
