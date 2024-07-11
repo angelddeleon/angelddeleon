@@ -28,7 +28,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-    https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+    [![TikTok](https://img.shields.io/badge/TikTok-@angelintech-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mangelintech)
   </ul>
 </div>
 
@@ -36,7 +36,7 @@
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
-<a href="https://github.com/ElAdagioDeJP">
+<a href="https://github.com/angelddeleon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelddeleon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelddeleon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
