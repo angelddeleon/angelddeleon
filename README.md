@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me👨🏻‍💻</h2></summary>
-    <h4 align="center">I'm a experienced Freelance developer <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+    <h4 align="center">I'm a experienced Freelance develope, Computer Engineering Student at the University Jose Antonio Paez <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
   </ul>
 </div>
 
