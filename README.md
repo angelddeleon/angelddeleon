@@ -32,3 +32,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelddeleon"/>
+
