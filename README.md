@@ -37,8 +37,8 @@
 
 <p align="center">
 <a href="https://github.com/angelddeleon">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=angelddeleon"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelddeleon&size_weight=0.5&count_weight=0.5"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelddeleon"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelddeleon&size_weight=0.5&count_weight=0.5"/>
   
 
 </a>
